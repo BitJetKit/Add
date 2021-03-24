@@ -1,4 +1,10 @@
 package com.BitJetKit.Add;
+/*
+ * Title: Test
+ * @author: BitJetKit
+ * Date: March 24, 2021
+ * Purpose: Test the Add class.
+ */
 
 import java.util.Scanner;
 
